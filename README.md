@@ -14,17 +14,20 @@ Can be installed using
 Unlock your face using openCV and Python 
 
      $ python face_unlock.py -h
-usage: face_unlock.py [-h] -n  -p
 
-Enter the name & directory of the person and image.
+usage: 
+       
+      face_unlock.py [-h] -n  -p
+
+      Enter the name & directory of the person and image.
 
 optional arguments:
 
-  -h, --help    show this help message and exit
+      -h, --help    show this help message and exit
   
-  -n , --name   Give the name of the person
+      -n , --name   Give the name of the person
  
- -p , --path   Give the path of the video
+      -p , --path   Give the path of the video
 
 #USAGE
 
