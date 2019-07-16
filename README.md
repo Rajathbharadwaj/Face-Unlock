@@ -1,4 +1,16 @@
 # Face-Unlock
+Requires 
+             
+            cv2
+            numpy
+            
+Can be installed using
+          
+         cv2 -->   pip install opencv-python  DOCS//https://pypi.org/project/opencv-python/  
+         
+       numpy -->   pip install numpy          DOCS//https://docs.scipy.org/doc/numpy/user/install.html
+
+
 Unlock your face using openCV and Python 
 
      $ python face_unlock.py -h
