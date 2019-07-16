@@ -1,7 +1,7 @@
 # Face-Unlock
 Unlock your face using openCV and Python 
 
-$ python face_unlock.py -h
+     $ python face_unlock.py -h
 usage: face_unlock.py [-h] -n  -p
 
 Enter the name & directory of the person and image.
@@ -16,7 +16,9 @@ optional arguments:
 
 #USAGE
 
-Eg:$ python face_unlock.py -n "Rajath" -p "trail.mp4"
+Eg: 
+    
+    $ python face_unlock.py -n "Rajath" -p "trail.mp4"
    
     $ python face_unlock.py --name "Rajath" --path "/home/usr/Downloads/Brave\ Downloads/trail.mp4"
    
